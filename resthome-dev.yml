@@ -6,9 +6,7 @@ message:
 spring:
     datasource:
         driverClassName: com.mysql.jdbc.Driver
-        url: jdbc:mysql://localhost/test
-	username:root
-	password:
+        url: jdbc:mysql://localhost/pae_web
 message:
     greeting: Welcome Home Mi Dear
     welcome: Welcome To GitHub Updated Again
