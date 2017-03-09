@@ -7,3 +7,5 @@ spring:
     datasource:
         driverClassName: com.mysql.jdbc.Driver
         url: jdbc:mysql://localhost/pae_web
+        username: root
+        password: 
