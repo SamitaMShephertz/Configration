@@ -1,4 +1,4 @@
 server:
   port: 8082
 message:
-  greeting: Welcome Samita Good Job-From Prod Branch
+  greeting: Prod Branch
