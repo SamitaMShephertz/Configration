@@ -1,4 +1,4 @@
 server:
   port: 8082
 message:
-  greeting: Prod Branch
+  greeting: Prod Branch Test
