@@ -12,5 +12,5 @@ cassandra:
     client:
       preferSameZoneEureka: true	
       useDnsForFetchingServiceUrls: true
-	    serviceUrl:
+      serviceUrl:
         defaultZone: http://192.168.1.42:8761/eureka/
