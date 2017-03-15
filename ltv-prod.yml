@@ -7,7 +7,7 @@ cassandra:
   keyspace: app42_event
   overrideEurekaLookup: true
   cqlPort: 9042
-  contactPoints: localhost
+  contactPoints: 192.168.1.11
 eureka:
   client:
     serviceUrl:
