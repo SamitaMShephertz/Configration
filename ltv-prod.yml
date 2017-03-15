@@ -8,9 +8,9 @@ cassandra:
   overrideEurekaLookup: true
   cqlPort: 9042
   contactPoints: localhost
-  eureka:
+ eureka:
     client:
-      preferSameZoneEureka: true	
-      useDnsForFetchingServiceUrls: false
-      serviceUrl:
-        defaultZone: http://192.168.1.42:8761/eureka/
+		preferSameZoneEureka: true	
+		useDnsForFetchingServiceUrls: false
+		serviceUrl:
+			defaultZone: http://192.168.1.42:8761/eureka/
